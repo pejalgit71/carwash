@@ -1,0 +1,5 @@
+job_id,customer_id,plate,location,status,cleaner_id,timestamp
+job001,user001,ABC1234,Jalan Ampang,Completed,user003,2024-10-01 10:30:00
+job002,user002,XYZ9876,Jalan Tun Razak,In Progress,user004,2024-10-02 14:45:00
+job003,user001,ABC1234,Jalan Bukit Bintang,Pending,,2024-10-03 16:10:00
+08de025a-8f0f-4d31-9a76-debd812eb026,55dd78d0-1578-4001-b490-408db58821d6,No car,,Pending,,2025-05-29 09:42:42.010941
